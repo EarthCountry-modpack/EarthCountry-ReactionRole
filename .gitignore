@@ -1,6 +1,3 @@
 #Dependencies
 node_modules
 
-#Private stuff (old)
-config.json
-token.json

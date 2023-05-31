@@ -1,1 +1,1 @@
-export default ''
+export default 'YOUR TOKEN HERE'
